@@ -1,5 +1,5 @@
 // ====== CONFIGURACIÓN — completar con los datos de tu proyecto Supabase ======
-const SUPABASE_URL = 'https://bebtcltnphmqmptfqiva.supabase.co/rest/v1/';
+const SUPABASE_URL = 'https://bebtcltnphmqmptfqiva.supabase.co';
 const SUPABASE_ANON_KEY = 'sb_publishable_Uw9DcWJ0nRBJvFOvwoMxjA_-PSYjIfN';
 // ==============================================================================
 
